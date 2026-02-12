@@ -2,7 +2,7 @@
 
 A comprehensive project management study for developing a secure mobile application for Transport for London's Student Oyster Card system, addressing the 2024 cybersecurity incident.
 
-![Project Management](https://img.shields.io/badge/Project_Management-CN6004-blue)
+![Project Management](htts://img.shields.io/badge/Project_Management-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Team Project](https://img.shields.io/badge/Type-University_Group_Project-orange)
 
